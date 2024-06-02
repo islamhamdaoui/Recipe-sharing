@@ -64,10 +64,10 @@ CREATE TABLE `users` (
 --
 
 INSERT INTO `users` (`id`, `username`, `email`, `password`, `date`, `image`) VALUES
-(13, '  islamhamdaoui', 'islamhamdaoui2000@gmail.com', 'caesar123', '2024-04-20 13:59:33', NULL),
-(14, 'islamhamdaoui', 'magoragamer@gmail.com', 'caesar123', '2024-05-31 23:18:29', NULL),
-(15, 'zaidimohamed', 'zaidi@gmail.com', 'caesar123', '2024-05-31 23:25:17', NULL),
-(16, 'Rayan', 'aslamhamdaoui@gmail.com', 'caesar123', '2024-06-01 16:26:13', NULL);
+(13, '  islamhamdaoui', 'islamhamdaoui2000@gmail.com', 'islam123', '2024-04-20 13:59:33', NULL),
+(14, 'islamhamdaoui', 'magoragamer@gmail.com', 'islam123', '2024-05-31 23:18:29', NULL),
+(15, 'zaidimohamed', 'zaidi@gmail.com', 'islam123', '2024-05-31 23:25:17', NULL),
+(16, 'Rayan', 'aslamhamdaoui@gmail.com', 'islam123', '2024-06-01 16:26:13', NULL);
 
 --
 -- Indexes for dumped tables
