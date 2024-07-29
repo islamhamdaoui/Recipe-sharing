@@ -19,7 +19,7 @@ To get started with this project, follow these steps:
 
 ## Technologies Used
 
- HTML, CSS, JavaScript ,Api
+Php, HTML, CSS, JavaScript ,Api
 
 ## Contributing
 
